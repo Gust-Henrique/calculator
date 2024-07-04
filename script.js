@@ -27,4 +27,4 @@ function calculate() {
     } catch {
         display.value = 'Error';
     }
-} //try e catch é usado para capturar e lidar com erros na expressão (como 2++2), mostrando Erro no display se a expressão for inválida.
+} //try e catch é usado para capturar e lidar com erros na expressão (como 2++2), mostrando Error no display se a expressão for inválida.
